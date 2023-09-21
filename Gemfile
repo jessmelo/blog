@@ -33,6 +33,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "faraday-retry"
 gem "webrick"
 
-
 # Jekyll theme!!!
 gem "bay_jekyll_theme"
