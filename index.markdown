@@ -5,5 +5,3 @@
 layout: blog
 
 ---
-
-![alt text](https://www.petz.com.br/blog/wp-content/uploads/2021/11/enxoval-para-gato-Copia.jpg)
