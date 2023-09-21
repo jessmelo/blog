@@ -22,8 +22,8 @@ title: Jess and the Rats
 email: jessmelo98@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts of a girl at home with her rats.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: jessmelo.github.io/blog
+url: https://jessmelo.github.io/blog
 github_username: jessmelo
 
 # Build settings
