@@ -27,9 +27,26 @@ url: https://jessmelo.github.io/blog
 github_username: jessmelo
 
 # Build settings
-theme: jekyll-theme-so-simple
+theme: bay_jekyll_theme
 plugins:
   - jekyll-feed
+
+header:
+  pages:
+    - name: Home
+      slug: /     # <-- index.md
+    - name: Song Analysis  # <-- whatever.md
+      slug: '/song_analysis'  # <-- song_analysis.md
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: jessmelo98@gmail.com
+      link: mailto:jessmelo98@gmail.com
+  follow:
+    - name: GitHub
+      link: http://github.com/jessmelo
 
 # Exclude from processing.
 # The following items will not be processed, by default.
