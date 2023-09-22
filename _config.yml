@@ -27,7 +27,6 @@ url: https://jessmelo.github.io/blog
 github_username: jessmelo
 
 # Build settings
-theme: bay_jekyll_theme
 plugins:
   - jekyll-feed
 
