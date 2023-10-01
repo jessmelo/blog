@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sobre procrastinação"
-date:   2023-09-30 23:17:00 -0300
+date: 2023-09-30 23:17:00 -0300
 categories: [post vida]
 ---
 
