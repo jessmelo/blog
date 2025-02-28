@@ -32,7 +32,7 @@ end
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "faraday-retry"
-gem "webrick" ">= 1.8.2"
+gem "webrick", ">= 1.8.2"
 gem "rexml", ">= 3.3.9"
 gem "nokogiri", ">= 1.18.3"
 
